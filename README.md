@@ -15,7 +15,7 @@ npm install git -g
 Installation
 Open a terminal window on Node or GitBash
 Clone the repo into a local directory of your choice
-git clone https://github.com/reaktionlab/alpacaGen.git
+git clone CubanSenpai/Alpaca-image-generator-website
 Install NPM packages
 npm install
 Run the application
